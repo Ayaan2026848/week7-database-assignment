@@ -21,4 +21,9 @@ PostgreSQL 18.6
 - `V3__categories.sql` — Category tree
 
 ## Status
-SQL objects and security roles have been created and checked. Flyway migration execution and migration history verification still need to be completed.
+
+- Audit logging objects created and tested.
+- Category tree created.
+- Database roles and permissions configured.
+- Migration files prepared.
+- Flyway migration execution and migration history verification remain to be completed.
